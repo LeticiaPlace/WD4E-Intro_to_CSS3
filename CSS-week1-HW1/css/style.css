@@ -1,4 +1,83 @@
 body{
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 150%;
+  background-color: lightyellow;
+  display: inline-block;
+  width:50%; 
+  text-align:left;
+  color:brown;
+  line-height: normal;
+
+}
+header{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:200%;
+  background-color:beige ;
+  display: inline-block;
+  width:fit-content;
+  text-align:center;
+  color:brown;
+  line-height: normal;
+}
+li{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:xx-large;
+  background-color:lightgreen;
+  display: inline-block;
+  width:50%;
+  text-align: center;
+  color:black;
+  line-height: normal;
+}
+p{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:90%;
+  background-color:blanchedalmond;
+  display:inline-block;
+  width:auto;
+  text-align:left;
+  color:brown;
+  line-height: normal;
+
+}
+
+h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:100%;
+  background-color:darkseagreen;
+  display:inline-block;
+  width:200%;
+  text-align: center;
+  color:brown;
+  line-height:normal;
+
+}
+main{
+  font-family:'Times New Roman', Times, serif;
+  font-size:175%;
+  background-color:burlywood;
+  display:inline-block;
+  width:150%;
+  text-align:center;
+  color:brown;
+  line-height: normal;
+}
+footer{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:small;
+  background-color:darkgray;
+  display:inline-block;
+  text-align:left;
+  line-height:normal;
+  color:black;
+
+}
+nav{
+  font-family:Arial, Helvetica, sans-serif;
+  font: size 150%;
+  background-color: blue;
+  display:inline-block;
+  text-align: center;
+  line-height: normal;
+  color:black;
 }
